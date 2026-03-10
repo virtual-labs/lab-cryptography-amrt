@@ -8,7 +8,7 @@
   "lab_display_name": "Cryptography Lab",
   "phase": "3-ext",
   "collegeName": "AMRT",
-  "baseUrl": "ds1-iiith.vlabs.ac.in",
+  "baseUrl": "cpy-amrt.vlabs.ac.in",
   "introduction": "Cryptography and Network Security is an important domain in computer science that focuses on securing communication and protecting information from unauthorized access. The proposed Cryptography Virtual Lab helps students understand and visualize the working principles of modern cryptographic algorithms and protocols. The lab provides interactive simulations that demonstrate the internal operations of algorithms such as DES, AES, Twofish, ElGamal, and Elliptic Curve Diffie–Hellman (ECDH). Through these visualizations, students can observe the step-by-step processes of key generation, encryption, decryption, and secure key exchange, which enhances conceptual understanding of cryptographic techniques used in real-world secure communication systems.",
   "experiments":[
   {
