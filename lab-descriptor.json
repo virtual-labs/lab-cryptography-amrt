@@ -15,70 +15,70 @@
     "name": "DES Key Generation",
     "short-name": "des-key-generation",
     "repo": "https://github.com/virtual-labs/exp-key-generation-des-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "DES Encryption",
     "short-name": "des-encryption",
     "repo": "https://github.com/virtual-labs/exp-encryption-des-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "DES Decryption",
     "short-name": "des-decryption",
     "repo": "https://github.com/virtual-labs/exp-decryption-des-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "AES Key Generation",
     "short-name": "aes-key-generation",
     "repo": "https://github.com/virtual-labs/exp-key-generation-aes-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "AES Encryption",
     "short-name": "aes-encryption",
     "repo": "https://github.com/virtual-labs/exp-encryption-aes-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "AES Ciphertext Decryption",
     "short-name": "aes-decryption",
     "repo": "https://github.com/virtual-labs/exp-decryption-aes-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "Encryption of plaintext using Twofish algorithm",
     "short-name": "twofish-encryption",
     "repo": "https://github.com/virtual-labs/exp-encryption-twofish-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "Decryption of ciphertext using Twofish algorithm",
     "short-name": "twofish-decryption",
     "repo": "https://github.com/virtual-labs/exp-decryption-twofish-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "Understanding ElGamal public key cryptosystem",
     "short-name": "elgamal-public-key",
     "repo": "https://github.com/virtual-labs/exp-elgamal-public-key-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   },
   {
     "name": "Elliptic-curve Diffie–Hellman (ECDH) Key Exchange Protocol",
     "short-name": "ecdh-key-exchange",
     "repo": "https://github.com/virtual-labs/exp-ecdh-key-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.0",
     "deploy": true
   }
 ],
