@@ -15,7 +15,7 @@
     "name": "DES Key Generation",
     "short-name": "des-key-generation",
     "repo": "https://github.com/virtual-labs/exp-key-generation-des-au",
-    "tag": "v1.1.1",
+    "tag": "v1.1.2",
     "deploy": true
   },
   {
@@ -64,7 +64,7 @@
     "name": "Decryption of ciphertext using Twofish algorithm",
     "short-name": "twofish-decryption",
     "repo": "https://github.com/virtual-labs/exp-decryption-twofish-au",
-    "tag": "v1.1.0",
+    "tag": "v1.1.2",
     "deploy": true
   },
   {
